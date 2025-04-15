@@ -1,38 +1,44 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!--메타 데이터 포함-->
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="신윤서">
-    <meta name="description" content="덕성여대 디지털소프트웨어공학부 신윤서의 포트폴리오입니다.">
+    <meta name="description" content="덕성여자대학교 디지털소프트웨어공학부 신윤서의 개인 포트폴리오 페이지입니다.">
     <link rel="stylesheet" href="style.css">
     <title>신윤서 포트폴리오</title>
   </head>
   <body>
     <header>
+      <!--header와 프로밀 이미지 작성-->
       <h1>디지털소프트웨어공학부 20231345 신윤서</h1>
-      <img src="media/profile.jpg" alt="프로필 이미지" width="150">
+      <img src="media/self_image.png" alt="프로필 이미지" width="150">
     </header>
   
     <nav>
+      <!--개요 작성 목차별로 순서화-->
       <h2>개요</h2>
       <ul>
-        <li><a href="#overview">소개</a></li>
-        <li><a href="#contact">연락처</a></li>
-        <li><a href="#projects">프로젝트</a></li>
+        <li><a href="#introduction">1.소개</a></li>
+        <li><a href="#contact">2.연락정보</a></li>
+        <li><a href="#projects">3.프로젝트</a></li>
       </ul>
     </nav>
   
     <main>
-      <section id="overview">
-        <h2>소개</h2>
+      <!--개요 1번 소개에 대한 내용작성-->
+      <section id="introduction">
+        <h2>1. 소개</h2>
         <p>덕성여자대학교 디지털소프트웨어공학부에 재학 중인 신윤서입니다. <br>
-          인터넷기초 04반을 수강하고 있습니다, <br>
-          웹 개발과 데이터 분석에 관심이 있습니다.</p>
+          <strong>인터넷기초 04반</strong>을 수강하고 있습니다. <br>
+          <span>웹 개발과 데이터 분석</span>에 관심이 있습니다.<br>
+          부족하지만 열심히 노력하는 학생이 되겠습니다.
+          </p>
       </section>
-  
+
+      <!--개요 2번 연락 정보에 대한 내용 작성-->
       <section id="contact">
-        <h2>연락처</h2>
+        <h2>2. 연락 정보</h2>
         <ul>
           <li>Email: <a href="mailto:yummsseo@duksung.ac.kr">yummsseo@duksung.ac.kr</a></li>
           <li>Email2: <a href ="mailto:shinpark5523@gmail.com">shinpark5523@gmail.com</a></li>
@@ -40,20 +46,26 @@
         </ul>
       </section>
   
+      <!--개요 3번 프로젝트에 대한 내용 작성-->
       <section id="projects">
-        <h2>프로젝트</h2>
+        <h2>3. 프로젝트</h2>
+        <!--ol로 순서리스트로 만들었지만 프로젝트가 하나밖에 없어 1번까지만 출력-->
         <ol>
           <li>
             <strong>덕성 다이너 맛집 소개 웹페이지</strong><br>
-            <a href="https://shinyunseo.github.io/duksung_diner/">페이지 보기</a> |
-            <a href="https://github.com/yummsseo/duksung_diner">코드 보기</a>
+            <ol>
+            <li><a href="https://yummsseo.github.io/duksung_diner/">구현된 웹페이지 접속 링크</a></li>
+            <li><a href="https://github.com/yummsseo/duksung_diner">구현 코드(깃허브 링크)</a></li>
+          </ol>
           </li>
         </ol>
       </section>
     </main>
-  
+
+    <!--footer 작성-->
     <footer>
-      <p>&copy; 20231345 신윤서 | 이메일: yummsseo@duksung.ac.kr</p>
+      <p>&copy; 디소공 20231345 신윤서 shinpark5523@gmail.com 인터넷기초</p>
     </footer>
   </body>
-</html>
+    </html>
+  
