@@ -32,6 +32,6 @@
 
 🔗 해당 프로젝트 보기: https://yummsseo.github.io/duksung_diner/
 
-🔗 해당 프로젝트 코드 보기 : https://yummsseo.github.io/duksung_diner/
+🔗 해당 프로젝트 코드 보기 : https://github.com/yummsseo/duksung_diner
 
 ---
