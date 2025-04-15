@@ -35,3 +35,5 @@
 🔗 해당 프로젝트 코드 보기 : https://github.com/yummsseo/duksung_diner
 
 ---
+
+🔗 해당 포트폴리오 바로 보기 : https://yummsseo.github.io/yummsseo/
