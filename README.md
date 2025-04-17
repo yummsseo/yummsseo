@@ -34,6 +34,9 @@
 
 🔗 해당 프로젝트 코드 보기 : https://github.com/yummsseo/duksung_diner
 
+### 2. 웹 폼 형식 만들기 📋
+
+🔗 웸 폼 페이지 바로가기 : https://yummsseo.github.io/duksung_diner/form.html
 ---
 
 🔗 해당 포트폴리오 바로 보기 : https://yummsseo.github.io/yummsseo/
