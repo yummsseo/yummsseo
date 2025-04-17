@@ -36,7 +36,13 @@
 
 ### 2. 웹 폼 형식 만들기 📋
 
+- **주요 기능**:
+  - 웹 폼 작성 후 제출
+  - 스프레드시트에 저장
+  
 🔗 웸 폼 페이지 바로가기 : https://yummsseo.github.io/duksung_diner/form.html
+
 ---
 
 🔗 해당 포트폴리오 바로 보기 : https://yummsseo.github.io/yummsseo/
+
