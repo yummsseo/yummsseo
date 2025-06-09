@@ -42,7 +42,20 @@
   
 🔗 웸 폼 페이지 바로가기 : https://yummsseo.github.io/duksung_diner/form.html
 
----
-
 🔗 해당 포트폴리오 바로 보기 : https://yummsseo.github.io/yummsseo/
+
+### 3. 나만의 인공지능 서비스 만들기 🤖
+- **주제**: 사용자의 입력에 따른 옷차림 추천
+- **주요 기능**:
+  - 사용자의 대답 입력
+  - 대답에 맞는 옷차림을 자동 추천
+  - 추가적인 아이템들도 추천
+
+🔗 해당 페이지 바로가기 : https://yummsseo.github.io/styling/
+
+🔗 해당 포트폴리오 바로 보기 : https://github.com/yummsseo/styling
+                        https://github.com/yummsseo/style-api
+
+
+
 
