@@ -53,8 +53,7 @@
 
 🔗 해당 페이지 바로가기 : https://yummsseo.github.io/styling/
 
-🔗 해당 포트폴리오 바로 보기 : https://github.com/yummsseo/styling
-                        https://github.com/yummsseo/style-api
+🔗 해당 포트폴리오 바로 보기 : https://github.com/yummsseo/styling   /  https://github.com/yummsseo/style-api
 
 
 
